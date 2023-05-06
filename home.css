@@ -1,0 +1,61 @@
+a{
+
+display: inline-block;
+
+color: blue;
+
+
+}
+
+h3{
+
+text-align: right;
+
+
+}
+
+nav{
+
+text-align: right;
+background-color: black;
+text-decoration-color: blue;
+
+}
+
+body{
+
+background-color: black;
+
+}
+
+header{
+
+color: blue;
+text-align: left;
+
+}
+
+h2{
+
+color: blue;
+
+text-align: left;
+
+}
+
+img{
+
+text-decoration-color: blue;
+color: blue;
+
+
+
+
+}
+h1{
+
+color: blue;
+text-align: center;
+
+
+}

@@ -56,6 +56,19 @@ h1{
 
 color: blue;
 text-align: center;
-
-
 }
+  
+  button{
+
+text-align: left;
+position: fixed;
+	   left: 0%;
+	   top:0%;
+
+
+
+
+    }
+
+
+

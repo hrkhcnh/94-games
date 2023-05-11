@@ -11,3 +11,48 @@
 
 
 <a style="text-decoration:none" href="https://forms.gle/9RN6Z56E3Dgr6gjz5"><h1>GAME REQUEST</h1></a>
+
+<html>
+<head>
+</head>
+<body>
+<button onclick="openGame()">Open ab cloack</button>
+<script>
+function openGame() {
+var win = window.open()
+var url = "https://iceman3232.github.io"
+var iframe = win.document.createElement('iframe')
+win.document.body.style.margin = '0';
+iframe.style.width = "100%";
+iframe.style.height = "100%";
+iframe.style.border = 'none';
+iframe.style.margin = "0";
+iframe.style.borderSpacing= "0";
+iframe.frameBorder= "0";
+iframe.scrolling= "no";
+iframe.src= url;
+iframe.style.allowFullscreen= "true";
+
+win.document.body.appendChild(iframe)
+}
+</script>
+<style>iframe { border: none; }</style>
+<style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      overflow: hidden;
+      background: #000;
+    }
+
+    iframe {
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      
+    }
+  </style>
+</body>
